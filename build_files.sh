@@ -1,4 +1,3 @@
-build_files.sh
 
 source env/Scripts/activate
 pip install -r requirements.txt 
